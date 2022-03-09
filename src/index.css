@@ -1,0 +1,19 @@
+/*!
+ * @author Mohamed Muntasir
+ * @link https://github.com/devmotheg
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+@layer base {
+	body {
+		@apply min-w-[400px];
+	}
+
+	#root {
+		@apply container flex flex-col items-center gap-4 px-16 mx-auto my-8;
+	}
+}
