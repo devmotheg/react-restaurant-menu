@@ -1,4 +1,4 @@
-# React Menu
+# React Restaurant Menu
 
 ## Author
 
