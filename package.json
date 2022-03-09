@@ -8,7 +8,7 @@
     "build-prod": "webpack --mode production",
     "start": "webpack serve --mode development"
   },
-  "author": "",
+  "author": "Mohamed Muntasir",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^17.0.39",
